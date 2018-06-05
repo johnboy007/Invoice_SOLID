@@ -1,0 +1,9 @@
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\bin\Debug\netstandard2.0\InvoiceSOLIDApp.deps.json
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\bin\Debug\netstandard2.0\InvoiceSOLIDApp.dll
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\bin\Debug\netstandard2.0\InvoiceSOLIDApp.pdb
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\obj\Debug\netstandard2.0\InvoiceSOLIDApp.csprojAssemblyReference.cache
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\obj\Debug\netstandard2.0\InvoiceSOLIDApp.csproj.CoreCompileInputs.cache
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\obj\Debug\netstandard2.0\InvoiceSOLIDApp.AssemblyInfoInputs.cache
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\obj\Debug\netstandard2.0\InvoiceSOLIDApp.AssemblyInfo.cs
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\obj\Debug\netstandard2.0\InvoiceSOLIDApp.dll
+C:\Archive\Projects\InvoiceSOLIDApp\InvoiceSOLIDApp\obj\Debug\netstandard2.0\InvoiceSOLIDApp.pdb
